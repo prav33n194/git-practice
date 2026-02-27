@@ -1,0 +1,12 @@
+
+101 John    IT        50000 Chennai
+102 Ramesh  HR        42000 Hyderabad
+103 Suresh  IT        55000 Bangalore
+104 Anita   Finance   60000 Mumbai
+105 Kiran   HR        40000 Chennai
+106 Priya   IT        52000 Pune
+
+
+
+
+
